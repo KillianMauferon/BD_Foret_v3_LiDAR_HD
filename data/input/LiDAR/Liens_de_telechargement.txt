@@ -1,0 +1,9 @@
+https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1008_6783_PTS_LAMB93_IGN69.copc.laz
+https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1007_6783_PTS_LAMB93_IGN69.copc.laz
+https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1007_6782_PTS_LAMB93_IGN69.copc.laz
+https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1008_6782_PTS_LAMB93_IGN69.copc.laz
+https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1009_6782_PTS_LAMB93_IGN69.copc.laz
+https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1009_6783_PTS_LAMB93_IGN69.copc.laz
+https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RF_2024-12-20/LHD_FXX_1007_6784_PTS_LAMB93_IGN69.copc.laz
+https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RF_2024-12-20/LHD_FXX_1008_6784_PTS_LAMB93_IGN69.copc.laz
+https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RF_2024-12-20/LHD_FXX_1009_6784_PTS_LAMB93_IGN69.copc.laz

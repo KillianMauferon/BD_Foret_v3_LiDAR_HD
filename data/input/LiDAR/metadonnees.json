@@ -1,0 +1,38 @@
+{
+  "LHD_FXX_1008_6783_PTS_C_LAMB93_IGN69": {
+    "url": "https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1008_6783_PTS_LAMB93_IGN69.copc.laz",
+    "metadata": "{\"capteur\":[\"RIEGL VQ-780 II-S:H2223888\",\"RIEGL VQ-780 II-S:H2227189\"],\"code_mission\":\"22LHDVosgesRG\",\"date_edition\":\"2024-12-20\",\"nombre_points\":37403872,\"coordonnees_NW\":\"1008-6783\",\"moa_acquisition\":\"IGN\",\"moe_acquisition\":\"Sintegra\",\"date_fin_acquisition\":\"2022-04-21\",\"systeme_altimetrique\":\"IGN69\",\"moe_classement_manuel\":\"NR\",\"systeme_planimetrique\":\"LAMB93\",\"date_debut_acquisition\":\"2022-04-21\",\"moe_classement_automatique\":\"IGN\"}"
+  },
+  "LHD_FXX_1007_6783_PTS_C_LAMB93_IGN69": {
+    "url": "https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1007_6783_PTS_LAMB93_IGN69.copc.laz",
+    "metadata": "{\"capteur\":[\"RIEGL VQ-780 II-S:H2223888\",\"RIEGL VQ-780 II-S:H2227189\"],\"code_mission\":\"22LHDVosgesRG\",\"date_edition\":\"2024-12-20\",\"nombre_points\":31635187,\"coordonnees_NW\":\"1007-6783\",\"moa_acquisition\":\"IGN\",\"moe_acquisition\":\"Sintegra\",\"date_fin_acquisition\":\"2022-04-21\",\"systeme_altimetrique\":\"IGN69\",\"moe_classement_manuel\":\"NR\",\"systeme_planimetrique\":\"LAMB93\",\"date_debut_acquisition\":\"2022-04-21\",\"moe_classement_automatique\":\"IGN\"}"
+  },
+  "LHD_FXX_1007_6782_PTS_C_LAMB93_IGN69": {
+    "url": "https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1007_6782_PTS_LAMB93_IGN69.copc.laz",
+    "metadata": "{\"capteur\":[\"RIEGL VQ-780 II-S:H2223888\",\"RIEGL VQ-780 II-S:H2227189\"],\"code_mission\":\"22LHDVosgesRG\",\"date_edition\":\"2024-12-20\",\"nombre_points\":29368148,\"coordonnees_NW\":\"1007-6782\",\"moa_acquisition\":\"IGN\",\"moe_acquisition\":\"Sintegra\",\"date_fin_acquisition\":\"2022-04-21\",\"systeme_altimetrique\":\"IGN69\",\"moe_classement_manuel\":\"NR\",\"systeme_planimetrique\":\"LAMB93\",\"date_debut_acquisition\":\"2022-04-21\",\"moe_classement_automatique\":\"IGN\"}"
+  },
+  "LHD_FXX_1008_6782_PTS_C_LAMB93_IGN69": {
+    "url": "https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1008_6782_PTS_LAMB93_IGN69.copc.laz",
+    "metadata": "{\"capteur\":[\"RIEGL VQ-780 II-S:H2223888\",\"RIEGL VQ-780 II-S:H2227189\"],\"code_mission\":\"22LHDVosgesRG\",\"date_edition\":\"2024-12-20\",\"nombre_points\":34750367,\"coordonnees_NW\":\"1008-6782\",\"moa_acquisition\":\"IGN\",\"moe_acquisition\":\"Sintegra\",\"date_fin_acquisition\":\"2022-04-21\",\"systeme_altimetrique\":\"IGN69\",\"moe_classement_manuel\":\"NR\",\"systeme_planimetrique\":\"LAMB93\",\"date_debut_acquisition\":\"2022-04-21\",\"moe_classement_automatique\":\"IGN\"}"
+  },
+  "LHD_FXX_1009_6782_PTS_C_LAMB93_IGN69": {
+    "url": "https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1009_6782_PTS_LAMB93_IGN69.copc.laz",
+    "metadata": "{\"capteur\":[\"RIEGL VQ-780 II-S:H2223888\",\"RIEGL VQ-780 II-S:H2227189\"],\"code_mission\":\"22LHDVosgesRG\",\"date_edition\":\"2024-12-20\",\"nombre_points\":38439107,\"coordonnees_NW\":\"1009-6782\",\"moa_acquisition\":\"IGN\",\"moe_acquisition\":\"Sintegra\",\"date_fin_acquisition\":\"2022-04-21\",\"systeme_altimetrique\":\"IGN69\",\"moe_classement_manuel\":\"NR\",\"systeme_planimetrique\":\"LAMB93\",\"date_debut_acquisition\":\"2022-04-21\",\"moe_classement_automatique\":\"IGN\"}"
+  },
+  "LHD_FXX_1009_6783_PTS_C_LAMB93_IGN69": {
+    "url": "https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RG_2024-12-20/LHD_FXX_1009_6783_PTS_LAMB93_IGN69.copc.laz",
+    "metadata": "{\"capteur\":[\"RIEGL VQ-780 II-S:H2223888\",\"RIEGL VQ-780 II-S:H2227189\"],\"code_mission\":\"22LHDVosgesRG\",\"date_edition\":\"2024-12-20\",\"nombre_points\":37341561,\"coordonnees_NW\":\"1009-6783\",\"moa_acquisition\":\"IGN\",\"moe_acquisition\":\"Sintegra\",\"date_fin_acquisition\":\"2022-04-21\",\"systeme_altimetrique\":\"IGN69\",\"moe_classement_manuel\":\"NR\",\"systeme_planimetrique\":\"LAMB93\",\"date_debut_acquisition\":\"2022-04-21\",\"moe_classement_automatique\":\"IGN\"}"
+  },
+  "LHD_FXX_1007_6784_PTS_C_LAMB93_IGN69": {
+    "url": "https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RF_2024-12-20/LHD_FXX_1007_6784_PTS_LAMB93_IGN69.copc.laz",
+    "metadata": "{\"capteur\":[\"RIEGL VQ-780 II-S:H2223888\",\"RIEGL VQ-780 II-S:H2227189\"],\"code_mission\":\"22LHDVosgesRF\",\"date_edition\":\"2024-12-20\",\"nombre_points\":11398875,\"coordonnees_NW\":\"1007-6784\",\"moa_acquisition\":\"IGN\",\"moe_acquisition\":\"Sintegra\",\"date_fin_acquisition\":\"2022-04-21\",\"systeme_altimetrique\":\"IGN69\",\"moe_classement_manuel\":\"NR\",\"systeme_planimetrique\":\"LAMB93\",\"date_debut_acquisition\":\"2022-04-21\",\"moe_classement_automatique\":\"IGN\"}"
+  },
+  "LHD_FXX_1008_6784_PTS_C_LAMB93_IGN69": {
+    "url": "https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RF_2024-12-20/LHD_FXX_1008_6784_PTS_LAMB93_IGN69.copc.laz",
+    "metadata": "{\"capteur\":[\"RIEGL VQ-780 II-S:H2223888\",\"RIEGL VQ-780 II-S:H2227189\"],\"code_mission\":\"22LHDVosgesRF\",\"date_edition\":\"2024-12-20\",\"nombre_points\":13111208,\"coordonnees_NW\":\"1008-6784\",\"moa_acquisition\":\"IGN\",\"moe_acquisition\":\"Sintegra\",\"date_fin_acquisition\":\"2022-04-21\",\"systeme_altimetrique\":\"IGN69\",\"moe_classement_manuel\":\"NR\",\"systeme_planimetrique\":\"LAMB93\",\"date_debut_acquisition\":\"2022-01-13\",\"moe_classement_automatique\":\"IGN\"}"
+  },
+  "LHD_FXX_1009_6784_PTS_C_LAMB93_IGN69": {
+    "url": "https://data.geopf.fr/telechargement/download/LiDARHD-NUALID/NUALHD_1-0__LAZ_LAMB93_RF_2024-12-20/LHD_FXX_1009_6784_PTS_LAMB93_IGN69.copc.laz",
+    "metadata": "{\"capteur\":[\"RIEGL VQ-780 II-S:H2223888\",\"RIEGL VQ-780 II-S:H2227189\"],\"code_mission\":\"22LHDVosgesRF\",\"date_edition\":\"2024-12-20\",\"nombre_points\":12621391,\"coordonnees_NW\":\"1009-6784\",\"moa_acquisition\":\"IGN\",\"moe_acquisition\":\"Sintegra\",\"date_fin_acquisition\":\"2022-04-21\",\"systeme_altimetrique\":\"IGN69\",\"moe_classement_manuel\":\"NR\",\"systeme_planimetrique\":\"LAMB93\",\"date_debut_acquisition\":\"2022-01-13\",\"moe_classement_automatique\":\"IGN\"}"
+  }
+}
