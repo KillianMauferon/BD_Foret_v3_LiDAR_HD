@@ -52,6 +52,8 @@ Pour installer RStudio : https://posit.co/download/rstudio-desktop/
 
 Les bibliothèques nécessaires sont automatiquement téléchargement lors du lancement du code.
 
+Le code R est actuellement en mode test afin de ne pas durer trop longtemps. Il est possible de la passer en mode normal mais celà implique que le code tourne pendant plusieurs heures. Afin d'enlever le mode test il suffit d'aller dans le code "0_parameters.R" et modifier la ligne "MODE_TEST <- TRUE" en "MODE_TEST <- FALSE"
+
 ### Pour les codes en Python :
 
 Pour installer le language de programmation python : https://www.python.org/downloads/ 
