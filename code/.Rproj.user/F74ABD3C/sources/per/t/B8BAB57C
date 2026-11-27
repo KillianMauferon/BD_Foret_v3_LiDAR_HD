@@ -1,0 +1,26 @@
+{
+    "id": "B8BAB57C",
+    "path": "C:/Users/killi/BD_Foret_v3_LiDAR_HD/code/1_import_data.R",
+    "project_path": "1_import_data.R",
+    "type": "r_source",
+    "hash": "2072786347",
+    "contents": "",
+    "dirty": false,
+    "created": 1795787534381.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "95,0",
+        "scrollLine": "78"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1795621160,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1795621160,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "7818AF4C",
+    "path": "C:/Users/killi/BD_Foret_v3_LiDAR_HD/code/3_correlation_spatiale_hauteur.R",
+    "project_path": "3_correlation_spatiale_hauteur.R",
+    "type": "r_source",
+    "hash": "108247301",
+    "contents": "",
+    "dirty": false,
+    "created": 1795787537149.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "94,0",
+        "scrollLine": "80"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1795687018,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1795687018,
+    "read_only": false,
+    "read_only_alternatives": []
+}
